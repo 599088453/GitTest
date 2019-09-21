@@ -11,3 +11,4 @@
 >3.git add <文件名>  
 >4.git commit -m'文字说明 推送到本地仓库'  
 >5.git push   
+![1](https://c-ssl.duitang.com/uploads/item/201906/14/20190614011610_pyajo.jpg)
